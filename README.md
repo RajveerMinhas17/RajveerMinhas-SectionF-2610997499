@@ -1,5 +1,5 @@
 
-# CST-Projects
+# Client-Side-Technology-Assignments
 
 HTML assignments for Client Side Technologies (CST), 1st semester.
 
