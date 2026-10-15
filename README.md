@@ -3,8 +3,8 @@
 
 HTML assignments for Client Side Technologies (CST), 1st semester.
 
-**Name:** Rajveer Minhas
-**Course:** BCA (AI/ML), Chitkara University
+**Name:** Rajveer Minhas, Roll.No: 2610997499
+**Course:** BCA (AI/ML), Section-F,Chitkara University
 
 ## Projects
 
